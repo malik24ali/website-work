@@ -10,7 +10,7 @@ const Blog = () => {
       title: "Building web layouts for dual foldable devices",
       category: "Finance",
       date: "February 12, 2023",
-      author: "Orvix",
+      author: "ornix",
       image: "📄",
     },
     {
@@ -18,7 +18,7 @@ const Blog = () => {
       title: "Top 10 Most Populars Google Chrome app",
       category: "Development",
       date: "February 12, 2023",
-      author: "Orvix",
+      author: "ornix",
       image: "💻",
     },
     {
@@ -26,7 +26,7 @@ const Blog = () => {
       title: "How to Increase Business Products Sales",
       category: "Design",
       date: "February 12, 2023",
-      author: "Orvix",
+      author: "ornix",
       image: "📊",
     },
   ];

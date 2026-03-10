@@ -11,7 +11,7 @@ const Testimonials = () => {
           {/* Text Content */}
           <div className={`space-y-6 ${isVisible ? 'animate-fadeInLeft' : 'opacity-0'}`}>
             <h2 className="text-4xl md:text-5xl font-bold transition-smooth" style={{ color: colors.primary.black }}>
-              What Say Our CEO, About <br /> Orvix{" "}
+              What Say Our CEO, About <br /> ornix{" "}
               <span style={{ color: colors.primary.red }}>Customers</span>
             </h2>
 

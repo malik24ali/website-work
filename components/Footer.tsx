@@ -122,9 +122,9 @@ const Footer = () => {
         {/* Bottom Footer */}
         <div className="pt-8 flex flex-col md:flex-row justify-between items-center" style={{ borderTopColor: colors.neutral[700], borderTopWidth: '1px' }}>
           <div style={{ color: colors.neutral[400] }} className="mb-4 md:mb-0">
-            © 2023 <span style={{ color: colors.primary.red }}>Orvix</span> all rights reserved. Design By Dream-IT.
+            © 2023 <span style={{ color: colors.primary.red }}>ornix</span> all rights reserved. Design By Dream-IT.
           </div>
-          <div className="text-3xl font-bold" style={{ color: colors.primary.red }}>Orvix</div>
+          <div className="text-3xl font-bold" style={{ color: colors.primary.red }}>ornix</div>
         </div>
       </div>
     </footer>

@@ -64,7 +64,7 @@ const Process = () => {
 
             {/* Why Choose */}
             <h3 className="text-2xl font-bold" style={{ color: colors.primary.black }}>
-              For Choose <span style={{ color: colors.primary.red }}>Orvix</span> Before know who we
+              For Choose <span style={{ color: colors.primary.red }}>ornix</span> Before know who we
               are?
             </h3>
 
@@ -82,7 +82,7 @@ const Process = () => {
             {/* Divider */}
             <div className="pt-4" style={{ borderTopColor: colors.neutral[300], borderTopWidth: '1px' }}>
               <h4 className="text-xl font-bold" style={{ color: colors.primary.black }}>
-                More Then 5K+ Brands with work Orvix
+                More Then 5K+ Brands with work ornix
               </h4>
             </div>
 

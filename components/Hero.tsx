@@ -11,7 +11,7 @@ const Hero = () => {
           {/* Text Content */}
           <div className={`space-y-6 ${isVisible ? 'animate-fadeInLeft' : 'opacity-0'}`}>
             <p className="font-semibold text-sm uppercase tracking-wider transition-smooth" style={{ color: colors.primary.red }}>
-              Work With Orvix
+              Work With ornix
             </p>
             <h1 className="text-5xl lg:text-6xl font-bold leading-tight" style={{ color: colors.primary.black }}>
               Innovate Solution For

@@ -1,11 +1,11 @@
-# Orvix - Next.js Website Conversion
+# ornix - Next.js Website Conversion
 
-This project is a modern conversion of the Orvix business consulting website from WordPress/HTML to a Next.js TypeScript application with Tailwind CSS.
+This project is a modern conversion of the ornix business consulting website from WordPress/HTML to a Next.js TypeScript application with Tailwind CSS.
 
 ## 📁 Project Structure
 
 ```
-Orvix-next/
+ornix-next/
 ├── components/           # React components
 │   ├── Navbar.tsx       # Navigation with dropdowns and mobile menu
 │   ├── Hero.tsx         # Hero banner with CTA buttons
@@ -190,5 +190,5 @@ Feel free to submit issues and enhancement requests!
 ---
 
 **Created**: January 2026
-**Original Design**: Orvix WordPress Theme
+**Original Design**: ornix WordPress Theme
 **Conversion**: TypeScript + Next.js + Tailwind CSS

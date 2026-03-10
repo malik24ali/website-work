@@ -1,6 +1,6 @@
 # Animation Implementation Guide
 
-Your Orvix website now includes professional animations similar to the original WordPress theme. Here's what was added:
+Your ornix website now includes professional animations similar to the original WordPress theme. Here's what was added:
 
 ## 📁 New Files Created
 
